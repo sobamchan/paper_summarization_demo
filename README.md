@@ -27,3 +27,8 @@ pip install requirements.txt
 ```bash
 > poetry run streamlit run scitldr_streamlit/main.py
 ```
+
+
+Should get something like this.
+
+![alt text](demo.png "Demo")
