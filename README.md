@@ -3,11 +3,6 @@
 
 ## Installation
 
-### Get a model
-
-Contact (`model.state`) from me.
-
-
 ### Setup env
 
 ```
