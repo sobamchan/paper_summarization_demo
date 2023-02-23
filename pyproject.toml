@@ -5,10 +5,11 @@ description = ""
 authors = ["sobamchan <oh.sore.sore.soutarou@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.9"
 torch = "^1.11.0"
 transformers = "^4.17.0"
 streamlit = "^1.8.1"
+schnitsum = "^0.4.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
